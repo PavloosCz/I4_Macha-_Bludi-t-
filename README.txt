@@ -1,0 +1,1 @@
+Dobrý den zadání našeho ùkolu bylo vytvoøit tøíduv PHP a následnì ji zdokumentvat. Použil jsem Tøídu bludištì kterou jsme dìlali podle zadání ve škole a zdokumentoval jsem ji. ukázku jak zpusti bludištì najdete v souboru ukazka.php. Pavel Machaè, I4.
